@@ -1,0 +1,16 @@
+# Generated map — large binary, regenerate with generate_map.py
+map_base.png
+
+# OSM tile download cache
+.tile_cache/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Temp display frames (written at runtime on Unihiker)
+/tmp/
+
+# macOS
+.DS_Store
