@@ -1,4 +1,4 @@
-# HARIDWAR WASTELAND — PIP-BOY 3000 MkV
+# HARIDWAR WASTELAND 
 ## Setup & Deployment Guide
 
 ```
